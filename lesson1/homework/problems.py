@@ -42,3 +42,5 @@ apolon_age="5 month"
 apolon_type="cat"
 
 print("My pet's name is", apolon_name, "he is", apolon_age, "old and he is a", apolon_type,".")
+a=10
+print(a)
