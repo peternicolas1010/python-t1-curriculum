@@ -5,6 +5,7 @@
 
 
 
+
 # Problem 2
 # Ask user if they brought lunch and water (yes/no).
 # If they brought lunch OR water, print "You're somewhat ready."
