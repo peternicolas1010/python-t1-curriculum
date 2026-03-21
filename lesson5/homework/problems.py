@@ -5,6 +5,11 @@ import random
 # Print the last one using len().
 # Then reverse the list and print it.
 
+operating = ["print", "if", "random"]
+
+print(operating [len(operating) - 1 ])
+operating.reverse()
+print(operating)
 
 
 # Problem 2
@@ -46,3 +51,8 @@ print(languages2)
 # or Create a list of 6 passwords.
 # Print the one in the middle using len().
 # Then remove the first password in the list and print it.
+list = ["chevaux", "bateaux", "fromage", "chat", "police", "code",]
+
+print(list [len(list) - 4 ])
+
+if not print(list[len(list) - 6])
