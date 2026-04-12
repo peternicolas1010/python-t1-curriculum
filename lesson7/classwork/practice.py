@@ -9,7 +9,7 @@ print("The sum is:", total)
 # Find and print the biggest number in the list.
 numbers = [-9, 17, 5, -3, 0]
 biggest_item = max(numbers)
-print(biggest)
+print(biggest_item)
 
 
 # Problem 3
