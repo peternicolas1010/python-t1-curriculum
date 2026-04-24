@@ -1,10 +1,22 @@
 # Problem 1
 # Use a while loop to print the numbers from 1 to 7 (inclusive).
 
+ # for loop
+x = 0
+for i in range(5):
+    x+=1
 
+
+# while loop 
+i = 7
+while (i >)
+
+print ("while")
 
 # Problem 2
 # Use a while loop to count down from 3 to -3 (inclusive), printing each number.
+
+
 
 
 
@@ -23,3 +35,6 @@
 # Problem 5
 # Use a while loop to print each element in the list.
 items = ["chair", "table", "desk"]
+
+
+print (items:, 1)

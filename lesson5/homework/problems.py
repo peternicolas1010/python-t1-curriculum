@@ -55,4 +55,3 @@ list = ["chevaux", "bateaux", "fromage", "chat", "police", "code",]
 
 print(list [len(list) - 4 ])
 
-if not print(list[len(list) - 6])
